@@ -2,7 +2,7 @@
 import requests
 
 # Your ExchangeRate-API key (get one for free from exchangerate-api.com)
-API_KEY = "c498503c3c41fbd35eb47cc6"
+API_KEY = "Your_API_Key"
 
 # Ask user which currency they are converting from (like USD)
 from_currency = input("From currency (e.g. USD): ").upper()
